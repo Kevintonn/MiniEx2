@@ -6,4 +6,4 @@ My coding process has been consisting of a lot of google searches. I had a lot o
 
 A program is a coded function, which is stored in the memory of a digital artifact.
 
-An error 
+I see errors as a very natural part of using anything computer related. Wether you're playing games, programming, creating graphics or just browsing the internet, some part of the experience will often include dealing with errors. 
